@@ -23,7 +23,7 @@ a{
     <div class="container pt-5 pb-3">
         <div class="text-center mb-3 pb-3">
             <h6 class="text-primary text-uppercase" style="letter-spacing: 5px;">F.A.Q</h6>
-            <h1>Frequently Asked Question</h1>
+            <h1>Frequently Asked Questions</h1>
         </div>
 
         <!-- ======= F.A.Q Section ======= -->
